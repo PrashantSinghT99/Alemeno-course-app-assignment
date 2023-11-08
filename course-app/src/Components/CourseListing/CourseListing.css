@@ -1,0 +1,33 @@
+.courseListing
+{
+    margin-top: 1rem;
+}
+div.search {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1{
+    margin:0;
+}
+input {
+    padding: 1rem;
+    border:0 solid black;
+    border-radius: 5%;
+}
+
+.course-list {
+    margin-top: 1rem
+}
+.search-box {
+  border: 1px solid #ddd; /* Define the border color and width */
+  border-radius: 4px; /* Optional: Add rounded corners */
+  padding: 1rem; /* Optional: Add padding to the input */
+  width: 200px; /* Set the width as needed */
+  outline: none; /* Remove the default input focus border */
+}
+
+.search-box:focus {
+  border: 1px solid #007bff; /* Define the border color when focused */
+}

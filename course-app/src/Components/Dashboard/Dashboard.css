@@ -1,0 +1,31 @@
+.dashboard-detail
+{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+.green-button
+{
+    background:green;
+}
+.progress-bar {
+margin:0 auto;
+  height: 10px;
+  width:55%;
+  background: #ccc;
+  margin-top: 10px;
+}
+
+.progress-bar-fill {
+  height: 100%;
+  background: #2ecc71;
+}
+
+@media (max-width: 550px) {
+  .button
+  {
+    padding:0;
+    margin:0 20px;
+  }
+  }
