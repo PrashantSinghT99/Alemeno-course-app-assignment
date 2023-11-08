@@ -28,7 +28,7 @@ Redux was not necessary for implementation though to show redux knowledge used i
 
 Future feature:
 
-real-time connection with API that shows the number of likes instantly in course listing page and able to update data in the backend and it will show up instantly in the frontend have implemented similar features in other application check mern-chat-app for reference
+real-time connection with API that shows the number of likes instantly in course listing page and able to update data in the backend and it will show up instantly in the frontend have implemented similar features in other application check chatter-mern-app for reference
 
 To run code 
 
