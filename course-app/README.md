@@ -17,7 +17,7 @@ Displayed course model provided as a reference for the structure of course data.
 
 student dashboard
 
-) Created a user dashboard for students to display the courses they are enrolled in.
+1) Created a user dashboard for students to display the courses they are enrolled in.
 Include a user-friendly interface with a list of enrolled courses.
 2) Display the course name, instructor name, thumbnail, due date, and a progress bar.
 3) Implement a feature that allows students to mark courses as completed.
