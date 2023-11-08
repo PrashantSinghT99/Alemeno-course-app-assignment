@@ -24,6 +24,11 @@ Include a user-friendly interface with a list of enrolled courses.
 
 State management using Redux
 Redux was not necessary for implementation though to show redux knowledge used it for authentication and authorization. Replicated local-storage and authorization of browser and api.
+
+Future feature:
+
+real-time connection with API that shows the number of likes instantly in course listing page and able to update data in the backend and it will show up instantly in the frontend have implemented similar features in other application check mern-chat-app for reference
+
 To run code 
 
 To run the application see the following two commands
