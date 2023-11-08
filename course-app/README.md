@@ -1,6 +1,6 @@
 Created this assignment as part of the hiring process this is a course app as per requirements and conditions responsive on all devices.
 
-The app consists of an authentication interface(Dummy credentials are email: alice@test.com password: 12345678)
+The app consists of an authentication interface(Dummy credentials are email: alice@test.com , bob@test.com password: 12345678)
 
 course listing page 
 
